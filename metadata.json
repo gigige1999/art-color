@@ -1,0 +1,7 @@
+{
+  "name": "ChromaStack - Aesthetic Color Palette Generator",
+  "description": "Upload any image to extract a professional color palette with a high-end minimalist aesthetic. Features AI-powered color naming and detailed specifications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
